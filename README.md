@@ -1,5 +1,7 @@
 #Recipe App
 
+This App can be found live on Git Hub pages on : https://malakabdalla.github.io/Recipe-App/
+
 Introduction of the project aim:
 This is an app that fetches from a public api a displays recipes
 
