@@ -10,6 +10,10 @@ No NPM needed
 Launch:
 after cloning the repository you should be able to run Live server extension and be able to see the recipes.
 
+
+
+
+
 Use examples:
 ![picture of the landing page](image.png)
 if you click on the recipe you should get a pop up that will give you the instructions and ingredients of the recipe, if you click on the heart the recipe will get favorite and will show in the favorite menu bar. there is a randomized recipe that will change every time the app reloads
